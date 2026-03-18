@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:🎥 Réalisateur : Michael Jelenic\n🎭 Acteurs : Chris Pratt\, Anya Taylor-Joy\, Charlie Day
+SUMMARY:🎬 Super Mario Galaxy\, le film
+UID:59bf5d96-2576-43ff-93aa-d2cbb751a6b8@59bf.org
+URL:https://www.themoviedb.org/movie/1226863
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:🎥 Réalisateur : Matt Bettinelli-Olpin\n🎭 Acteurs : Samara Weaving\, Kathryn Newton\, Sarah Michelle Gellar
+SUMMARY:🎬 Wedding Nightmare : deuxième partie
+UID:210ea95e-0960-43be-bc28-5e3ade4d1a9c@210e.org
+URL:https://www.themoviedb.org/movie/1266127
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260415
+DESCRIPTION:🎥 Réalisateur : Gore Verbinski\n🎭 Acteurs : Sam Rockwell\, Juno Temple\, Haley Lu Richardson
+SUMMARY:🎬 Good Luck\, Have Fun\, Don't Die
+UID:e7dc91c8-8eb7-4506-a2b0-1cccd46809ce@e7dc.org
+URL:https://www.themoviedb.org/movie/1119449
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DESCRIPTION:🎥 Réalisateur : Phil Cunningham\n🎭 Acteurs : Brandon Engman\, Brian Stivale\, Shahar Taboch
+SUMMARY:🎬 David
+UID:ed99febc-3216-4780-ae36-51b100a5bfe5@ed99.org
+URL:https://www.themoviedb.org/movie/1167307
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260429
+DESCRIPTION:🎥 Réalisateur : David Frankel\n🎭 Acteurs : Meryl Streep\, Anne Hathaway\, Emily Blunt
+SUMMARY:🎬 Le Diable s'habille en Prada 2
+UID:3f62a34f-a825-4325-865a-35d98ea6683b@3f62.org
+URL:https://www.themoviedb.org/movie/1314481
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:🎥 Réalisateur : Aditya Dhar\n🎭 Acteurs : Ranveer Singh\, Arjun Rampal\, R. Madhavan
+SUMMARY:🎬 Dhurandhar : The Revenge
+UID:ac70f67b-84af-4131-80b5-2de73e9ccd05@ac70.org
+URL:https://www.themoviedb.org/movie/1582770
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:🎥 Réalisateur : John Patton Ford\n🎭 Acteurs : Glen Powell\, Margaret Qualley\, Jessica Henwick
+SUMMARY:🎬 L'ultime Héritier
+UID:70c1af94-f691-433a-9654-fbe19bd455e3@70c1.org
+URL:https://www.themoviedb.org/movie/467905
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260429
+DESCRIPTION:🎥 Réalisateur : Lynne Ramsay\n🎭 Acteurs : Jennifer Lawrence\, Robert Pattinson\, Sissy Spacek
+SUMMARY:🎬 Die My Love
+UID:ddb7f72c-3351-4b74-b0cd-9e41250f1a23@ddb7.org
+URL:https://www.themoviedb.org/movie/1033148
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:19911016
+DESCRIPTION:🎥 Réalisateur : James Cameron\n🎭 Acteurs : Arnold Schwarzenegger\, Linda Hamilton\, Edward Furlong
+SUMMARY:🎬 Terminator 2 : Le Jugement dernier
+UID:60e7e023-d4b1-4491-8fe1-ae05d1e008d0@60e7.org
+URL:https://www.themoviedb.org/movie/280
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:🎥 Réalisateur : Kirk Jones\n🎭 Acteurs : Robert Aramayo\, Maxine Peake\, Peter Mullan
+SUMMARY:🎬 Plus fort que moi
+UID:51f7fbda-0b61-4bb8-b45c-f961dd7c588e@51f7.org
+URL:https://www.themoviedb.org/movie/1317149
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:🎥 Réalisateur : Vanessa Caswill\n🎭 Acteurs : Maika Monroe\, Tyriq Withers\, Rudy Pankow
+SUMMARY:🎬 Reminders of Him
+UID:9bc106a6-81bd-47f7-99e0-f5e245bbc2b6@9bc1.org
+URL:https://www.themoviedb.org/movie/1367642
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:🎥 Réalisateur : Kristoffer Borgli\n🎭 Acteurs : Zendaya\, Robert Pattinson\, Alana Haim
+SUMMARY:🎬 The Drama
+UID:bf789381-43c0-4027-98a1-c32ce181d07e@bf78.org
+URL:https://www.themoviedb.org/movie/1325734
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260422
+DESCRIPTION:🎥 Réalisateur : Antoine Fuqua\n🎭 Acteurs : Jaafar Jackson\, Colman Domingo\, Nia Long
+SUMMARY:🎬 Michael
+UID:29e02ace-fa3b-4656-b274-b0038811fab5@29e0.org
+URL:https://www.themoviedb.org/movie/936075
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:🎥 Réalisateur : Corin Hardy\n🎭 Acteurs : Dafne Keen\, Sophie Nélisse\, Sky Yang
+SUMMARY:🎬 Le Sifflet
+UID:e491cf8d-f0f6-44d9-9213-cb4fe961965f@e491.org
+URL:https://www.themoviedb.org/movie/1193501
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250723
+DESCRIPTION:🎥 Réalisateur : Sean Byrne\n🎭 Acteurs : Hassie Harrison\, Jai Courtney\, Josh Heuston
+SUMMARY:🎬 Dangerous Animals
+UID:c096a806-4539-42d1-a0d0-7fb4e3c72a36@c096.org
+URL:https://www.themoviedb.org/movie/1285965
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:🎥 Réalisateur : Kirill Sokolov\n🎭 Acteurs : Zazie Beetz\, Patricia Arquette\, Heather Graham
+SUMMARY:🎬 They Will Kill You
+UID:4b593822-cbc7-4585-a1b9-721a7bfeb7c1@4b59.org
+URL:https://www.themoviedb.org/movie/1292695
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260513
+DESCRIPTION:🎥 Réalisateur : Curry Barker\n🎭 Acteurs : Michael Johnston\, Inde Navarrette\, Cooper Tomlinson
+SUMMARY:🎬 Obsession
+UID:a226f636-e838-46cd-9c79-ad0c0f9a60c9@a226.org
+URL:https://www.themoviedb.org/movie/1339713
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260506
+DESCRIPTION:🎥 Réalisateur : Kyle Balda\n🎭 Acteurs : Hugh Jackman\, Emma Thompson\, Nicholas Braun
+SUMMARY:🎬 The Sheep Detectives
+UID:c0577b5a-1de6-4ce3-a47c-28ec230bcd93@c057.org
+URL:https://www.themoviedb.org/movie/1301421
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260429
+DESCRIPTION:🎥 Réalisateur : 김수진\n🎭 Acteurs : Lee Sun-bin\, Kim Min-seok\, Jeon Ik-ryoung
+SUMMARY:🎬 Noise
+UID:f5134fc5-4c17-41f9-88ea-75a01bc6b8ee@f513.org
+URL:https://www.themoviedb.org/movie/1194963
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:🎥 Réalisateur : Phil Lord\n🎭 Acteurs : Ryan Gosling\, Sandra Hüller\, James Ortiz
+SUMMARY:🎬 Projet dernière chance
+UID:dccfb73d-2f0d-4451-8aac-b080605796dd@dccf.org
+URL:https://www.themoviedb.org/movie/687163
+END:VEVENT
+END:VCALENDAR
