@@ -1,0 +1,32 @@
+name: Mise a jour automatique Cinema
+
+on:
+  schedule:
+    - cron: '0 4 * * *' # S'execute tous les jours a 4h du matin
+  workflow_dispatch:   # Permet de le lancer a la main pour tester
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Recuperation du code
+        uses: actions/checkout@v3
+
+      - name: Installation de Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Installation des outils
+        run: pip install -r requirements.txt
+
+      - name: Execution du script
+        run: python cinemaj.py
+
+      - name: Sauvegarde du fichier .ics
+        run: |
+          git config --global user.name "Cinema-Bot"
+          git config --global user.email "bot@github.com"
+          git add sorties_cinema_fr.ics
+          git commit -m "Mise a jour auto du calendrier" || exit 0
+          git push
