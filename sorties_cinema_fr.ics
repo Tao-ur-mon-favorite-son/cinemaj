@@ -2,143 +2,143 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260708
-DESCRIPTION:🎥 Réalisateur : Sébastien Vaniček\n🎭 Acteurs : Souheila Yacoub\, Tandi Wright\, Hunter Doohan
-SUMMARY:🎬 Evil Dead Burn
-UID:9e3b5e09-9e59-4756-b982-565747fc776f@9e3b.org
-URL:https://www.themoviedb.org/movie/1212763
+DTSTART;VALUE=DATE:19650728
+DESCRIPTION:🎥 Réalisateur : Masaki Kobayashi\n🎭 Acteurs : 新珠三千代\, Rentarō Mikuni\, Misako Watanabe
+SUMMARY:🎬 Kwaïdan
+UID:ef40e88d-4e69-41f0-94dc-5e7f1adceb62@ef40.org
+URL:https://www.themoviedb.org/movie/30959
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260610
 DESCRIPTION:🎥 Réalisateur : Steven Soderbergh\n🎭 Acteurs : Michaela Coel\, Ian McKellen\, Jessica Gunning
 SUMMARY:🎬 The Christophers
-UID:ed8351dc-0563-404f-b54b-f818e2c3cd33@ed83.org
+UID:98833992-d849-4693-8da0-e8c6968ef697@9883.org
 URL:https://www.themoviedb.org/movie/1400357
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:🎥 Réalisateur : Destin Daniel Cretton\n🎭 Acteurs : Tom Holland\, Zendaya\, Sadie Sink
+SUMMARY:🎬 Spider-Man: Brand New Day
+UID:4a2a23c5-852e-4e39-8515-bbda84fd77d8@4a2a.org
+URL:https://www.themoviedb.org/movie/969681
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:🎥 Réalisateur : Kirill Sokolov\n🎭 Acteurs : Zazie Beetz\, Myha'la\, Patricia Arquette
+SUMMARY:🎬 They Will Kill You
+UID:f835d39c-f645-4b03-a9d0-c4a88123652c@f835.org
+URL:https://www.themoviedb.org/movie/1292695
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:🎥 Réalisateur : Gregg Araki\n🎭 Acteurs : Olivia Wilde\, Cooper Hoffman\, Mason Gooding
+SUMMARY:🎬 I Want Your Sex
+UID:49684fe4-6233-4457-8634-7894a20c7c32@4968.org
+URL:https://www.themoviedb.org/movie/1288059
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260701
+DESCRIPTION:🎥 Réalisateur : Michael Sarnoski\n🎭 Acteurs : Hugh Jackman\, Jodie Comer\, Bill Skarsgård
+SUMMARY:🎬 On l'appelait Robin des Bois
+UID:1e7c9c56-03e2-481a-a8c9-98fcb0b1da71@1e7c.org
+URL:https://www.themoviedb.org/movie/1284465
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260708
-DESCRIPTION:🎥 Réalisateur : Quentin Tarantino\n🎭 Acteurs : Uma Thurman\, Lucy Liu\, Vivica A. Fox
-SUMMARY:🎬 Kill Bill : The Whole Bloody Affair
-UID:58ee90df-bc14-463a-8f4b-59c97c760865@58ee.org
-URL:https://www.themoviedb.org/movie/414419
+DESCRIPTION:🎥 Réalisateur : Sébastien Vaniček\n🎭 Acteurs : Souheila Yacoub\, Tandi Wright\, Hunter Doohan
+SUMMARY:🎬 Evil Dead Burn
+UID:adc9cb63-3cdb-4d67-b8bd-ac923dd9d40b@adc9.org
+URL:https://www.themoviedb.org/movie/1212763
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260624
+DESCRIPTION:🎥 Réalisateur : Pierre Coffin\n🎭 Acteurs : Pierre Coffin\, Trey Parker\, Allison Janney
+SUMMARY:🎬 Des Minions et des monstres
+UID:5758ed87-daf1-4ad2-99df-b5a67d964504@5758.org
+URL:https://www.themoviedb.org/movie/1315772
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260610
+DESCRIPTION:🎥 Réalisateur : 谷垣健治\n🎭 Acteurs : Xie Miao\, Joe Taslim\, 杨恩又
+SUMMARY:🎬 The Furious
+UID:8d4d1cea-902c-4c04-bf0c-e6ecfcf91611@8d4d.org
+URL:https://www.themoviedb.org/movie/1280738
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260617
+DESCRIPTION:🎥 Réalisateur : Kane Parsons\n🎭 Acteurs : Chiwetel Ejiofor\, Renate Reinsve\, Mark Duplass
+SUMMARY:🎬 Backrooms
+UID:c22053ff-ea8b-48e0-a789-47a7ef945270@c220.org
+URL:https://www.themoviedb.org/movie/1083381
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260617
+DESCRIPTION:🎥 Réalisateur : Andrew Stanton\n🎭 Acteurs : Tom Hanks\, Tim Allen\, Joan Cusack
+SUMMARY:🎬 Toy Story 5
+UID:43926eb7-c17e-4cd3-bd30-85910175a85e@4392.org
+URL:https://www.themoviedb.org/movie/1084244
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260610
+DESCRIPTION:🎥 Réalisateur : Steven Spielberg\n🎭 Acteurs : Emily Blunt\, Josh O'Connor\, Colin Firth
+SUMMARY:🎬 Disclosure Day
+UID:f2d452dd-ce11-4cd5-b9fa-f35167cba239@f2d4.org
+URL:https://www.themoviedb.org/movie/1275779
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220325
+DESCRIPTION:🎥 Réalisateur : S. S. Rajamouli\n🎭 Acteurs : N.T. Rama Rao Jr.\, Ram Charan\, Olivia Morris
+SUMMARY:🎬 Roudram Ranam Rudhiram (RRR)
+UID:4b9ec7c0-4393-4cf2-b877-1de71b85e90c@4b9e.org
+URL:https://www.themoviedb.org/movie/579974
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260624
 DESCRIPTION:🎥 Réalisateur : Kim Soo-jin\n🎭 Acteurs : Lee Sun-bin\, Kim Min-seok\, Jeon Ik-ryoung
 SUMMARY:🎬 Noise
-UID:9570eedf-04ad-438c-b105-ac0224c05b86@9570.org
+UID:959a983e-56a7-49c4-b803-fff7bc676ef4@959a.org
 URL:https://www.themoviedb.org/movie/1194963
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260617
 DESCRIPTION:🎥 Réalisateur : Pete Ohs\n🎭 Acteurs : Charli xcx\, Lena Góra\, Will Madden
 SUMMARY:🎬 Eruption
-UID:43ba3ae8-b954-4b06-af58-b75cdc3c198e@43ba.org
+UID:52075f52-7f7a-4194-aa61-1f759ac2c37b@5207.org
 URL:https://www.themoviedb.org/movie/1337592
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260617
-DESCRIPTION:🎥 Réalisateur : Kane Parsons\n🎭 Acteurs : Chiwetel Ejiofor\, Renate Reinsve\, Mark Duplass
-SUMMARY:🎬 Backrooms
-UID:03c6b499-e7c4-4c70-be68-32af5feccc25@03c6.org
-URL:https://www.themoviedb.org/movie/1083381
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260624
-DESCRIPTION:🎥 Réalisateur : Pierre Coffin\n🎭 Acteurs : Pierre Coffin\, Trey Parker\, Allison Janney
-SUMMARY:🎬 Des Minions et des monstres
-UID:8e1be371-f656-4148-b7ef-a9ee2347d000@8e1b.org
-URL:https://www.themoviedb.org/movie/1315772
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260729
-DESCRIPTION:🎥 Réalisateur : Destin Daniel Cretton\n🎭 Acteurs : Tom Holland\, Zendaya\, Sadie Sink
-SUMMARY:🎬 Spider-Man: Brand New Day
-UID:7bc89924-7513-4868-b276-7d71098ef928@7bc8.org
-URL:https://www.themoviedb.org/movie/969681
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260701
-DESCRIPTION:🎥 Réalisateur : Michael Sarnoski\n🎭 Acteurs : Hugh Jackman\, Jodie Comer\, Bill Skarsgård
-SUMMARY:🎬 On l'appelait Robin des Bois
-UID:11169a92-eb5c-47d3-be74-b2dcdc6b2b01@1116.org
-URL:https://www.themoviedb.org/movie/1284465
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260715
-DESCRIPTION:🎥 Réalisateur : Christopher Nolan\n🎭 Acteurs : Matt Damon\, Tom Holland\, Anne Hathaway
-SUMMARY:🎬 L'Odyssée
-UID:e326faa3-5538-46f1-886b-35f4f3fa73d5@e326.org
-URL:https://www.themoviedb.org/movie/1368337
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260610
-DESCRIPTION:🎥 Réalisateur : 谷垣健治\n🎭 Acteurs : 谢苗\, Joe Taslim\, 杨恩又
-SUMMARY:🎬 The Furious
-UID:ed6ff785-d266-48ef-a900-f86cdd8144d6@ed6f.org
-URL:https://www.themoviedb.org/movie/1280738
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220325
-DESCRIPTION:🎥 Réalisateur : S. S. Rajamouli\n🎭 Acteurs : N.T. Rama Rao Jr.\, Ram Charan\, Olivia Morris
-SUMMARY:🎬 Roudram Ranam Rudhiram (RRR)
-UID:8a8c7849-f63e-41ec-8a81-073424212fba@8a8c.org
-URL:https://www.themoviedb.org/movie/579974
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260701
-DESCRIPTION:🎥 Réalisateur : Craig Gillespie\n🎭 Acteurs : Milly Alcock\, Matthias Schoenaerts\, Eve Ridley
-SUMMARY:🎬 Supergirl
-UID:2069fa27-c392-4b5d-ac5a-fdd8818695c8@2069.org
-URL:https://www.themoviedb.org/movie/1081003
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260603
-DESCRIPTION:🎥 Réalisateur : Antonin Baudry\n🎭 Acteurs : Simon Abkarian\, Simon Russell Beale\, Florian Lesieur
-SUMMARY:🎬 La Bataille de Gaulle - L’âge de fer
-UID:fc37af7d-516a-4073-b25e-dbea8db4a505@fc37.org
-URL:https://www.themoviedb.org/movie/1165366
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260610
-DESCRIPTION:🎥 Réalisateur : Steven Spielberg\n🎭 Acteurs : Emily Blunt\, Josh O'Connor\, Colin Firth
-SUMMARY:🎬 Disclosure Day
-UID:572ce7ff-3997-4f27-b9cb-084759130d1e@572c.org
-URL:https://www.themoviedb.org/movie/1275779
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260617
-DESCRIPTION:🎥 Réalisateur : Andrew Stanton\n🎭 Acteurs : Tom Hanks\, Tim Allen\, Joan Cusack
-SUMMARY:🎬 Toy Story 5
-UID:30578944-7338-42ce-9788-d37a708f4df7@3057.org
-URL:https://www.themoviedb.org/movie/1084244
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260325
-DESCRIPTION:🎥 Réalisateur : Kirill Sokolov\n🎭 Acteurs : Zazie Beetz\, Myha'la\, Patricia Arquette
-SUMMARY:🎬 They Will Kill You
-UID:c9975163-c9d7-4d64-9241-37efc013a95d@c997.org
-URL:https://www.themoviedb.org/movie/1292695
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260603
-DESCRIPTION:🎥 Réalisateur : Michael Tiddes\n🎭 Acteurs : Marlon Wayans\, Shawn Wayans\, Anna Faris
-SUMMARY:🎬 Scary Movie
-UID:a02be9be-0ebf-4fb6-b321-a9bfa0f43830@a02b.org
-URL:https://www.themoviedb.org/movie/1273221
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260708
-DESCRIPTION:🎥 Réalisateur : Thomas Kail\n🎭 Acteurs : Catherine Laga‘aia\, Dwayne Johnson\, Rena Owen
-SUMMARY:🎬 Vaiana\, la légende du bout du monde
-UID:cf6a8618-3fe0-4834-988d-1081d64944e3@cf6a.org
-URL:https://www.themoviedb.org/movie/1108427
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19630315
 DESCRIPTION:🎥 Réalisateur : David Lean\n🎭 Acteurs : Peter O'Toole\, Alec Guinness\, Omar Sharif
 SUMMARY:🎬 Lawrence d'Arabie
-UID:0801ef80-4f15-4253-a842-26a8e6045103@0801.org
+UID:ea09bdc9-4095-4ae8-99cc-54fce08ce335@ea09.org
 URL:https://www.themoviedb.org/movie/947
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260715
+DESCRIPTION:🎥 Réalisateur : Christopher Nolan\n🎭 Acteurs : Matt Damon\, Tom Holland\, Anne Hathaway
+SUMMARY:🎬 L'Odyssée
+UID:e4cf02b6-0e4f-4b1e-afe2-e522f8ccb7b8@e4cf.org
+URL:https://www.themoviedb.org/movie/1368337
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260708
+DESCRIPTION:🎥 Réalisateur : Quentin Tarantino\n🎭 Acteurs : Uma Thurman\, Lucy Liu\, Vivica A. Fox
+SUMMARY:🎬 Kill Bill : The Whole Bloody Affair
+UID:36f1f7a1-c76c-4c2e-b8c8-42fe5640adee@36f1.org
+URL:https://www.themoviedb.org/movie/414419
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260701
+DESCRIPTION:🎥 Réalisateur : Craig Gillespie\n🎭 Acteurs : Milly Alcock\, Matthias Schoenaerts\, Eve Ridley
+SUMMARY:🎬 Supergirl
+UID:78851bd9-971f-430b-9ea7-3ec83166b189@7885.org
+URL:https://www.themoviedb.org/movie/1081003
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260708
+DESCRIPTION:🎥 Réalisateur : Thomas Kail\n🎭 Acteurs : Catherine Laga‘aia\, Dwayne Johnson\, Rena Owen
+SUMMARY:🎬 Vaiana\, la légende du bout du monde
+UID:8f01d900-789a-4b59-8135-a9ea40cb8145@8f01.org
+URL:https://www.themoviedb.org/movie/1108427
 END:VEVENT
 END:VCALENDAR
