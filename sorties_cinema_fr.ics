@@ -2,143 +2,143 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260826
-DESCRIPTION:🎥 Réalisateur : Ridley Scott\n🎭 Acteurs : Jacob Elordi\, Josh Brolin\, Margaret Qualley
-SUMMARY:🎬 The Dog Stars
-UID:87c6678a-ef7d-47ea-9a63-5949a10a85af@87c6.org
-URL:https://www.themoviedb.org/movie/1384216
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220325
-DESCRIPTION:🎥 Réalisateur : S. S. Rajamouli\n🎭 Acteurs : N.T. Rama Rao Jr.\, Ram Charan\, Olivia Morris
-SUMMARY:🎬 Roudram Ranam Rudhiram (RRR)
-UID:2deeb02c-453e-48c2-9858-f253566dcac8@2dee.org
-URL:https://www.themoviedb.org/movie/579974
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260708
-DESCRIPTION:🎥 Réalisateur : Quentin Tarantino\n🎭 Acteurs : Uma Thurman\, Lucy Liu\, Vivica A. Fox
-SUMMARY:🎬 Kill Bill : The Whole Bloody Affair
-UID:66d6e6e1-848b-4d21-8410-6663dc43ca9d@66d6.org
-URL:https://www.themoviedb.org/movie/414419
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260715
-DESCRIPTION:🎥 Réalisateur : Christopher Nolan\n🎭 Acteurs : Matt Damon\, Tom Holland\, Anne Hathaway
-SUMMARY:🎬 L'Odyssée
-UID:656a2e91-a95d-4013-a3bd-e890a1141edb@656a.org
-URL:https://www.themoviedb.org/movie/1368337
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260819
-DESCRIPTION:🎥 Réalisateur : Cristian Mungiu\n🎭 Acteurs : Sebastian Stan\, Renate Reinsve\, Lisa Carlehed
-SUMMARY:🎬 Fjord
-UID:c7e896d8-b0c9-4ec8-9fdb-204d0e4eb3a0@c7e8.org
-URL:https://www.themoviedb.org/movie/1401459
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260715
-DESCRIPTION:🎥 Réalisateur : Cesar Zelada\n🎭 Acteurs : Naomi Serrano\, Nate Begle\, Charles Gonzales
-SUMMARY:🎬 Kayara\, Princesse Inca
-UID:b1f6d7f0-0f22-43a3-8ae6-f33609454923@b1f6.org
-URL:https://www.themoviedb.org/movie/666154
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260805
-DESCRIPTION:🎥 Réalisateur : Cal Brunker\n🎭 Acteurs : Carter Young\, Hayden Chamberlen\, Mckenna Grace
-SUMMARY:🎬 La Pat’ Patrouille : Le film mission Dino
-UID:8f5a231e-2eb6-4fcb-a310-3afb71b1e91f@8f5a.org
-URL:https://www.themoviedb.org/movie/1185806
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260819
-DESCRIPTION:🎥 Réalisateur : Jean-François Richet\n🎭 Acteurs : Jason Statham\, Annabelle Wallis\, Roland Møller
-SUMMARY:🎬 Mutiny
-UID:2babc309-2727-4c3a-ab4c-980bcd18ffa9@2bab.org
-URL:https://www.themoviedb.org/movie/1288445
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260729
-DESCRIPTION:🎥 Réalisateur : Destin Daniel Cretton\n🎭 Acteurs : Tom Holland\, Zendaya\, Sadie Sink
-SUMMARY:🎬 Spider-Man: Brand New Day
-UID:4853b35a-3ac8-41c8-a6ac-94dd588113b0@4853.org
-URL:https://www.themoviedb.org/movie/969681
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260701
-DESCRIPTION:🎥 Réalisateur : Michael Sarnoski\n🎭 Acteurs : Hugh Jackman\, Jodie Comer\, Bill Skarsgård
-SUMMARY:🎬 On l'appelait Robin des Bois
-UID:232d4bf7-ee0e-45cd-821d-7d13996efabd@232d.org
-URL:https://www.themoviedb.org/movie/1284465
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:🎥 Réalisateur : Gregg Araki\n🎭 Acteurs : Olivia Wilde\, Cooper Hoffman\, Mason Gooding
 SUMMARY:🎬 I Want Your Sex
-UID:539f91be-51b6-4d66-ab26-74ea0b7b2e23@539f.org
+UID:ef720ada-d7a4-48ff-ba85-5be67459c1cd@ef72.org
 URL:https://www.themoviedb.org/movie/1288059
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260812
-DESCRIPTION:🎥 Réalisateur : Kat Coiro\n🎭 Acteurs : Halle Bailey\, Regé-Jean Page\, Marco Calvani
-SUMMARY:🎬 Toi\, Moi et la Toscane
-UID:c83ec4eb-c1fc-4735-84df-af2d4d139686@c83e.org
-URL:https://www.themoviedb.org/movie/1455079
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260717
-DESCRIPTION:🎥 Réalisateur : Daniel Fahre\n🎭 Acteurs : Bjørn Sundquist\, Andrea Berntzen\, Fridtjov Såheim
-SUMMARY:🎬 Blücher
-UID:28e32acd-acda-4221-abc1-aae9ef3d884d@28e3.org
-URL:https://www.themoviedb.org/movie/1272586
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260812
-DESCRIPTION:🎥 Réalisateur : Ian Tuason\n🎭 Acteurs : Nina Kiri\, Adam DiMarco\, Keana Bastidas
-SUMMARY:🎬 undertone
-UID:2e25c7ca-fe14-46c2-960f-d17b4e7b6343@2e25.org
-URL:https://www.themoviedb.org/movie/1480387
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:19630315
-DESCRIPTION:🎥 Réalisateur : David Lean\n🎭 Acteurs : Peter O'Toole\, Alec Guinness\, Omar Sharif
-SUMMARY:🎬 Lawrence d'Arabie
-UID:21e6f613-62db-457c-93bc-a03d4fa883b2@21e6.org
-URL:https://www.themoviedb.org/movie/947
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260708
-DESCRIPTION:🎥 Réalisateur : Sébastien Vaniček\n🎭 Acteurs : Souheila Yacoub\, Tandi Wright\, Hunter Doohan
-SUMMARY:🎬 Evil Dead Burn
-UID:892ea3e5-0c3a-4335-aa54-93ef5e5cb5f6@892e.org
-URL:https://www.themoviedb.org/movie/1212763
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260701
-DESCRIPTION:🎥 Réalisateur : Craig Gillespie\n🎭 Acteurs : Milly Alcock\, Eve Ridley\, Matthias Schoenaerts
-SUMMARY:🎬 Supergirl
-UID:3f10edb0-295a-4092-912f-b0dd72923da4@3f10.org
-URL:https://www.themoviedb.org/movie/1081003
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260819
-DESCRIPTION:🎥 Réalisateur : Jacob Chase\n🎭 Acteurs : Amelia Eve\, Brandon Perea\, Lin Shaye
-SUMMARY:🎬 Insidious : L'Invasion du Lointain
-UID:4acecb9d-7e4f-431f-a168-44a8c8d982d3@4ace.org
-URL:https://www.themoviedb.org/movie/1291595
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260708
 DESCRIPTION:🎥 Réalisateur : Thomas Kail\n🎭 Acteurs : Catherine Lagaʻaia\, Dwayne Johnson\, Rena Owen
 SUMMARY:🎬 Vaiana\, la légende du bout du monde
-UID:fd57d2f9-d310-4214-8457-e964caefe48a@fd57.org
+UID:0e0fbe0a-b65a-45d3-b71b-b8e6e576bcf3@0e0f.org
 URL:https://www.themoviedb.org/movie/1108427
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260819
+DESCRIPTION:🎥 Réalisateur : Jean-François Richet\n🎭 Acteurs : Jason Statham\, Annabelle Wallis\, Roland Møller
+SUMMARY:🎬 Mutiny
+UID:ac37bfd0-a7b9-4035-8c5e-571d62d92f79@ac37.org
+URL:https://www.themoviedb.org/movie/1288445
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260819
+DESCRIPTION:🎥 Réalisateur : Cristian Mungiu\n🎭 Acteurs : Sebastian Stan\, Renate Reinsve\, Lisa Carlehed
+SUMMARY:🎬 Fjord
+UID:55ab6ad5-edfb-4475-baf9-672a82e5b49a@55ab.org
+URL:https://www.themoviedb.org/movie/1401459
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:🎥 Réalisateur : Destin Daniel Cretton\n🎭 Acteurs : Tom Holland\, Zendaya\, Sadie Sink
+SUMMARY:🎬 Spider-Man: Brand New Day
+UID:45e8a950-3201-4083-95f3-fcd5c2bd11da@45e8.org
+URL:https://www.themoviedb.org/movie/969681
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:19630315
+DESCRIPTION:🎥 Réalisateur : David Lean\n🎭 Acteurs : Peter O'Toole\, Alec Guinness\, Omar Sharif
+SUMMARY:🎬 Lawrence d'Arabie
+UID:48c7ec6a-09e8-4ebb-8e16-92d3c1a58896@48c7.org
+URL:https://www.themoviedb.org/movie/947
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260715
+DESCRIPTION:🎥 Réalisateur : Christopher Nolan\n🎭 Acteurs : Matt Damon\, Tom Holland\, Anne Hathaway
+SUMMARY:🎬 L'Odyssée
+UID:785cf2ca-2be2-4d32-ac8a-d4c7c8417ed6@785c.org
+URL:https://www.themoviedb.org/movie/1368337
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260708
+DESCRIPTION:🎥 Réalisateur : Sébastien Vaniček\n🎭 Acteurs : Souheila Yacoub\, Tandi Wright\, Hunter Doohan
+SUMMARY:🎬 Evil Dead Burn
+UID:c9043ccf-270d-4563-a1e3-ee27131b1337@c904.org
+URL:https://www.themoviedb.org/movie/1212763
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260812
+DESCRIPTION:🎥 Réalisateur : Ryusuke Hamaguchi\n🎭 Acteurs : Virginie Efira\, 岡本多緒\, 長塚京三
+SUMMARY:🎬 Soudain
+UID:1f18a4d8-1cc6-42ad-840a-09af12d3bd8e@1f18.org
+URL:https://www.themoviedb.org/movie/1476614
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260812
 DESCRIPTION:🎥 Réalisateur : David Robert Mitchell\n🎭 Acteurs : Anne Hathaway\, Ewan McGregor\, Christian Convery
 SUMMARY:🎬 La fin d’Oak Street
-UID:fa8062fc-b45a-4d01-90a2-f93ca223e761@fa80.org
+UID:8029338c-5462-431f-a111-3492a45beca9@8029.org
 URL:https://www.themoviedb.org/movie/1101383
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260819
+DESCRIPTION:🎥 Réalisateur : Jacob Chase\n🎭 Acteurs : Amelia Eve\, Brandon Perea\, Lin Shaye
+SUMMARY:🎬 Insidious : L'Invasion du Lointain
+UID:cdc74f01-d219-45be-81ee-ba12b45f2b1a@cdc7.org
+URL:https://www.themoviedb.org/movie/1291595
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260715
+DESCRIPTION:🎥 Réalisateur : Anders Thomas Jensen\n🎭 Acteurs : Mads Mikkelsen\, Nikolaj Lie Kaas\, Sofie Gråbøl
+SUMMARY:🎬 The Last Viking
+UID:3c03b72b-2449-440f-9579-5f93b9e1fcb0@3c03.org
+URL:https://www.themoviedb.org/movie/1295400
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260826
+DESCRIPTION:🎥 Réalisateur : Ridley Scott\n🎭 Acteurs : Jacob Elordi\, Josh Brolin\, Margaret Qualley
+SUMMARY:🎬 The Dog Stars
+UID:08a25af9-1a2e-42f4-bff5-c98f643106f3@08a2.org
+URL:https://www.themoviedb.org/movie/1384216
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260812
+DESCRIPTION:🎥 Réalisateur : Ian Tuason\n🎭 Acteurs : Nina Kiri\, Adam DiMarco\, Keana Bastidas
+SUMMARY:🎬 undertone
+UID:9837c9fd-5878-4d5c-bcea-aeb4b523e25f@9837.org
+URL:https://www.themoviedb.org/movie/1480387
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260812
+DESCRIPTION:🎥 Réalisateur : Kat Coiro\n🎭 Acteurs : Halle Bailey\, Regé-Jean Page\, Marco Calvani
+SUMMARY:🎬 Toi\, Moi et la Toscane
+UID:b62f6ee0-1e66-4274-9e93-ae358e4a1d35@b62f.org
+URL:https://www.themoviedb.org/movie/1455079
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260715
+DESCRIPTION:🎥 Réalisateur : Cesar Zelada\n🎭 Acteurs : Naomi Serrano\, Nate Begle\, Charles Gonzales
+SUMMARY:🎬 Kayara\, Princesse Inca
+UID:4958ad5c-ea0e-425d-86b0-0cb51338af64@4958.org
+URL:https://www.themoviedb.org/movie/666154
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260708
+DESCRIPTION:🎥 Réalisateur : Quentin Tarantino\n🎭 Acteurs : Uma Thurman\, Lucy Liu\, Vivica A. Fox
+SUMMARY:🎬 Kill Bill : The Whole Bloody Affair
+UID:3ccff165-2941-448b-bf7d-2e98aeb26011@3ccf.org
+URL:https://www.themoviedb.org/movie/414419
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260717
+DESCRIPTION:🎥 Réalisateur : Daniel Fahre\n🎭 Acteurs : Bjørn Sundquist\, Andrea Berntzen\, Fridtjov Såheim
+SUMMARY:🎬 Blücher
+UID:0348a384-f37e-4a3e-9f13-bd5f116f9306@0348.org
+URL:https://www.themoviedb.org/movie/1272586
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260826
+DESCRIPTION:🎥 Réalisateur : Dave Green\n🎭 Acteurs : Will Forte\, Lana Condor\, Tone Bell
+SUMMARY:🎬 Coyote vs ACME
+UID:3f76c331-d44c-4eb3-a99c-b3d832843288@3f76.org
+URL:https://www.themoviedb.org/movie/1204680
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260805
+DESCRIPTION:🎥 Réalisateur : Cal Brunker\n🎭 Acteurs : Carter Young\, Hayden Chamberlen\, Mckenna Grace
+SUMMARY:🎬 La Pat’ Patrouille : Le film mission Dino
+UID:a242fc6d-bbef-4bcb-8df2-38fc9db090e6@a242.org
+URL:https://www.themoviedb.org/movie/1185806
 END:VEVENT
 END:VCALENDAR
