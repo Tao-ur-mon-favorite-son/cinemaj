@@ -2,143 +2,143 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20220325
-DESCRIPTION:🎥 Réalisateur : S. S. Rajamouli\n🎭 Acteurs : N.T. Rama Rao Jr.\, Ram Charan\, Olivia Morris
-SUMMARY:🎬 Roudram Ranam Rudhiram (RRR)
-UID:b80ad6bc-363c-4bca-ba34-8ce2cb80d2a0@b80a.org
-URL:https://www.themoviedb.org/movie/579974
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260826
-DESCRIPTION:🎥 Réalisateur : Ridley Scott\n🎭 Acteurs : Jacob Elordi\, Josh Brolin\, Margaret Qualley
-SUMMARY:🎬 The Dog Stars
-UID:77173808-50f3-4af4-be01-16b7a9392d82@7717.org
-URL:https://www.themoviedb.org/movie/1384216
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:19630315
-DESCRIPTION:🎥 Réalisateur : David Lean\n🎭 Acteurs : Peter O'Toole\, Alec Guinness\, Omar Sharif
-SUMMARY:🎬 Lawrence d'Arabie
-UID:4a2cfee8-3d55-46f1-8a3b-42b788fa77d0@4a2c.org
-URL:https://www.themoviedb.org/movie/947
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260723
-DESCRIPTION:🎥 Réalisateur : H. Vinoth\n🎭 Acteurs : விஜய்\, Mamitha Baiju\, बॉबी द्योल
-SUMMARY:🎬 Jana Nayagan
-UID:9bdd97f0-e3c3-4cfa-a04e-c0bd0d87be9c@9bdd.org
-URL:https://www.themoviedb.org/movie/1235877
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260805
-DESCRIPTION:🎥 Réalisateur : Cal Brunker\n🎭 Acteurs : Carter Young\, Hayden Chamberlen\, Mckenna Grace
-SUMMARY:🎬 La Pat’ Patrouille : Le film mission Dino
-UID:33aa2d24-8b9d-4cb1-b876-a0c409832f2d@33aa.org
-URL:https://www.themoviedb.org/movie/1185806
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260909
-DESCRIPTION:🎥 Réalisateur : Anthony Maras\n🎭 Acteurs : Andrew Scott\, Brendan Fraser\, Kerry Condon
-SUMMARY:🎬 Pressure
-UID:cdf438e5-363b-4935-9e24-73178cc4f44d@cdf4.org
-URL:https://www.themoviedb.org/movie/1318413
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260812
-DESCRIPTION:🎥 Réalisateur : David Robert Mitchell\n🎭 Acteurs : Anne Hathaway\, Ewan McGregor\, Christian Convery
-SUMMARY:🎬 La fin d’Oak Street
-UID:eb2de653-8b65-4e74-9e50-608d0c49faf2@eb2d.org
-URL:https://www.themoviedb.org/movie/1101383
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260902
-DESCRIPTION:🎥 Réalisateur : Paolo Strippoli\n🎭 Acteurs : Michele Riondino\, Giulio Feltri\, Paolo Pierobon
-SUMMARY:🎬 La valle dei sorrisi
-UID:ec34bf8e-795e-414a-ac26-f15403ef2e1f@ec34.org
-URL:https://www.themoviedb.org/movie/1092936
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260729
-DESCRIPTION:🎥 Réalisateur : Gregg Araki\n🎭 Acteurs : Olivia Wilde\, Cooper Hoffman\, Mason Gooding
-SUMMARY:🎬 I Want Your Sex
-UID:a28ee259-053a-46a2-b474-26a7a09e680d@a28e.org
-URL:https://www.themoviedb.org/movie/1288059
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:19680425
-DESCRIPTION:🎥 Réalisateur : Franklin J. Schaffner\n🎭 Acteurs : Charlton Heston\, Roddy McDowall\, Kim Hunter
-SUMMARY:🎬 La Planète des singes
-UID:67eb6e2f-456d-495e-82ef-c83dd1a9bbee@67eb.org
-URL:https://www.themoviedb.org/movie/871
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260715
-DESCRIPTION:🎥 Réalisateur : Christopher Nolan\n🎭 Acteurs : Matt Damon\, Tom Holland\, Anne Hathaway
-SUMMARY:🎬 L'Odyssée
-UID:805d269a-345a-4f13-b4e4-7fa1cc40e2e0@805d.org
-URL:https://www.themoviedb.org/movie/1368337
+DTSTART;VALUE=DATE:20260819
+DESCRIPTION:🎥 Réalisateur : Jean-François Richet\n🎭 Acteurs : Jason Statham\, Annabelle Wallis\, Roland Møller
+SUMMARY:🎬 Mutiny
+UID:2cac203f-f18b-4ad6-8e10-ff8e9eb9ab32@2cac.org
+URL:https://www.themoviedb.org/movie/1288445
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:19850206
 DESCRIPTION:🎥 Réalisateur : David Lynch\n🎭 Acteurs : Kyle MacLachlan\, Francesca Annis\, Patrick Stewart
 SUMMARY:🎬 Dune
-UID:b9334690-5881-4486-a639-cee947d59ddf@b933.org
+UID:b39e663c-0c95-4f50-bc9c-bffa92e6ffdf@b39e.org
 URL:https://www.themoviedb.org/movie/841
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260805
+DESCRIPTION:🎥 Réalisateur : Cal Brunker\n🎭 Acteurs : Carter Young\, Hayden Chamberlen\, Mckenna Grace
+SUMMARY:🎬 La Pat’ Patrouille : Le film mission Dino
+UID:380120ab-ada1-4de9-80cb-dacf1dd3bb75@3801.org
+URL:https://www.themoviedb.org/movie/1185806
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260722
-DESCRIPTION:🎥 Réalisateur : Hanna Bergholm\n🎭 Acteurs : Rupert Grint\, Seidi Haarla\, Pamela Tola
-SUMMARY:🎬 Nightborn
-UID:327a412d-73a6-4577-92ca-341803355a33@327a.org
-URL:https://www.themoviedb.org/movie/964849
+DESCRIPTION:🎥 Réalisateur : H. Vinoth\n🎭 Acteurs : விஜய்\, Mamitha Baiju\, बॉबी द्योल
+SUMMARY:🎬 Jana Nayagan
+UID:c404fe54-2bf8-483e-a684-05169eaf70c9@c404.org
+URL:https://www.themoviedb.org/movie/1235877
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260807
+DESCRIPTION:🎥 Réalisateur : Eli Roth\n🎭 Acteurs : Ari Millen\, Charlie Zeltzer\, Shiloh O’Reilly
+SUMMARY:🎬 Ice Cream Man
+UID:412451c9-be1c-4e7a-9655-ce6dbcd4c4af@4124.org
+URL:https://www.themoviedb.org/movie/1477712
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260812
+DESCRIPTION:🎥 Réalisateur : Kat Coiro\n🎭 Acteurs : Halle Bailey\, Regé-Jean Page\, Marco Calvani
+SUMMARY:🎬 Toi\, Moi et la Toscane
+UID:d79717a8-80df-4c1a-84e4-75087de4d258@d797.org
+URL:https://www.themoviedb.org/movie/1455079
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230614
+DESCRIPTION:🎥 Réalisateur : Andy Muschietti\n🎭 Acteurs : Ezra Miller\, Sasha Calle\, Michael Keaton
+SUMMARY:🎬 The Flash
+UID:260e70e1-ac46-43fe-8c0b-1a28d1877abf@260e.org
+URL:https://www.themoviedb.org/movie/298618
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20220325
+DESCRIPTION:🎥 Réalisateur : S. S. Rajamouli\n🎭 Acteurs : N.T. Rama Rao Jr.\, Ram Charan\, Olivia Morris
+SUMMARY:🎬 Roudram Ranam Rudhiram (RRR)
+UID:63714946-a753-47ba-a461-04880a53ac04@6371.org
+URL:https://www.themoviedb.org/movie/579974
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:19630315
+DESCRIPTION:🎥 Réalisateur : David Lean\n🎭 Acteurs : Peter O'Toole\, Alec Guinness\, Omar Sharif
+SUMMARY:🎬 Lawrence d'Arabie
+UID:84bc4346-9c0a-4751-a2d7-1d54133ea3bd@84bc.org
+URL:https://www.themoviedb.org/movie/947
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260826
+DESCRIPTION:🎥 Réalisateur : Ridley Scott\n🎭 Acteurs : Jacob Elordi\, Josh Brolin\, Margaret Qualley
+SUMMARY:🎬 The Dog Stars
+UID:1e9a6872-6447-426e-ac73-05bdd96fc73b@1e9a.org
+URL:https://www.themoviedb.org/movie/1384216
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:19680425
+DESCRIPTION:🎥 Réalisateur : Franklin J. Schaffner\n🎭 Acteurs : Charlton Heston\, Roddy McDowall\, Kim Hunter
+SUMMARY:🎬 La Planète des singes
+UID:6c0d53fc-54a2-40f8-86e2-5293402e6bac@6c0d.org
+URL:https://www.themoviedb.org/movie/871
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260909
+DESCRIPTION:🎥 Réalisateur : Anthony Maras\n🎭 Acteurs : Andrew Scott\, Brendan Fraser\, Kerry Condon
+SUMMARY:🎬 Pressure
+UID:c9cc9d5b-c9d0-46af-b72f-ee72084cb3ab@c9cc.org
+URL:https://www.themoviedb.org/movie/1318413
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260729
 DESCRIPTION:🎥 Réalisateur : Destin Daniel Cretton\n🎭 Acteurs : Tom Holland\, Zendaya\, Sadie Sink
 SUMMARY:🎬 Spider-Man: Brand New Day
-UID:1b324021-13ff-4612-8cac-495d6aba0c95@1b32.org
+UID:200e4a8d-89cd-4e71-af45-2bbee2376d94@200e.org
 URL:https://www.themoviedb.org/movie/969681
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260819
 DESCRIPTION:🎥 Réalisateur : Jacob Chase\n🎭 Acteurs : Amelia Eve\, Brandon Perea\, Lin Shaye
 SUMMARY:🎬 Insidious : L'Invasion du Lointain
-UID:95eb1308-e019-495a-ab28-7d9c3b4d5450@95eb.org
+UID:7d7e1080-ec8f-46d6-a4c1-bbb131438681@7d7e.org
 URL:https://www.themoviedb.org/movie/1291595
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:19680927
-DESCRIPTION:🎥 Réalisateur : Stanley Kubrick\n🎭 Acteurs : Keir Dullea\, Gary Lockwood\, William Sylvester
-SUMMARY:🎬 2001 : L'Odyssée de l'espace
-UID:50798665-b4f8-4b0a-8a75-0e694bfa33d2@5079.org
-URL:https://www.themoviedb.org/movie/62
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260715
-DESCRIPTION:🎥 Réalisateur : Anders Thomas Jensen\n🎭 Acteurs : Mads Mikkelsen\, Nikolaj Lie Kaas\, Sofie Gråbøl
-SUMMARY:🎬 The Last Viking
-UID:31ed8a56-c01e-468b-a7da-594708ae1075@31ed.org
-URL:https://www.themoviedb.org/movie/1295400
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260812
-DESCRIPTION:🎥 Réalisateur : Kat Coiro\n🎭 Acteurs : Halle Bailey\, Regé-Jean Page\, Marco Calvani
-SUMMARY:🎬 Toi\, Moi et la Toscane
-UID:9076eecd-b87b-4836-b939-616784d8c03e@9076.org
-URL:https://www.themoviedb.org/movie/1455079
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260819
-DESCRIPTION:🎥 Réalisateur : Jean-François Richet\n🎭 Acteurs : Jason Statham\, Annabelle Wallis\, Roland Møller
-SUMMARY:🎬 Mutiny
-UID:e112b57d-aa21-46d2-a475-af76ff181685@e112.org
-URL:https://www.themoviedb.org/movie/1288445
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260812
 DESCRIPTION:🎥 Réalisateur : Ian Tuason\n🎭 Acteurs : Nina Kiri\, Adam DiMarco\, Keana Bastidas
 SUMMARY:🎬 undertone
-UID:1fbcff3f-a53d-4231-b27a-b340dd46ff1e@1fbc.org
+UID:91a27af0-85d3-4bdd-a2ec-738f45c4178c@91a2.org
 URL:https://www.themoviedb.org/movie/1480387
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260902
+DESCRIPTION:🎥 Réalisateur : Paolo Strippoli\n🎭 Acteurs : Michele Riondino\, Giulio Feltri\, Paolo Pierobon
+SUMMARY:🎬 La valle dei sorrisi
+UID:b2092beb-c694-404b-b335-c6da575d36e9@b209.org
+URL:https://www.themoviedb.org/movie/1092936
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260812
+DESCRIPTION:🎥 Réalisateur : David Robert Mitchell\n🎭 Acteurs : Anne Hathaway\, Ewan McGregor\, Christian Convery
+SUMMARY:🎬 La fin d’Oak Street
+UID:4f96856f-01e9-4260-bc1c-d7ea52576bd6@4f96.org
+URL:https://www.themoviedb.org/movie/1101383
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:🎥 Réalisateur : Gregg Araki\n🎭 Acteurs : Olivia Wilde\, Cooper Hoffman\, Mason Gooding
+SUMMARY:🎬 I Want Your Sex
+UID:dfe6fba3-b9cc-4948-b420-e67dfa94d5d2@dfe6.org
+URL:https://www.themoviedb.org/movie/1288059
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:19680927
+DESCRIPTION:🎥 Réalisateur : Stanley Kubrick\n🎭 Acteurs : Keir Dullea\, Gary Lockwood\, William Sylvester
+SUMMARY:🎬 2001 : L'Odyssée de l'espace
+UID:eff626fb-d28c-426b-8cab-e82dfb44b677@eff6.org
+URL:https://www.themoviedb.org/movie/62
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260722
+DESCRIPTION:🎥 Réalisateur : Hanna Bergholm\n🎭 Acteurs : Rupert Grint\, Seidi Haarla\, Pamela Tola
+SUMMARY:🎬 Nightborn
+UID:39cbeade-5ec2-4777-b30c-2413bdc8de3f@39cb.org
+URL:https://www.themoviedb.org/movie/964849
 END:VEVENT
 END:VCALENDAR
